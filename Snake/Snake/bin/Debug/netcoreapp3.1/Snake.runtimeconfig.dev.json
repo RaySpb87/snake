@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mydig\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mydig\\.nuget\\packages"
+    ]
+  }
+}
